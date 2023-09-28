@@ -29,7 +29,6 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 ## EDA
 I looked at the distributions of the data and the value counts for the various categorical variables.
-![alt text](https://github.com/amraskar/ds_salary_project/blob/5b02b59fab1ded0ad4a6d28062c804d45f6fd238/Out_231.csv "Correlations")
 ![alt text](https://github.com/amraskar/ds_salary_project/blob/5b02b59fab1ded0ad4a6d28062c804d45f6fd238/correlation%20heatmap.png "Correlations")
 
 ## Model Building 
